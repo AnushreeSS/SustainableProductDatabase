@@ -1,1 +1,1 @@
-# GreenProductDatabase
+# Sustainable Product Database
